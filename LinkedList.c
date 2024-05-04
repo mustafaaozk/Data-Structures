@@ -2,10 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-// I am Nurettin Mustafa Özkaya 
-// 211501024 - Computer Engineering - second grade
-// I work wih that video. https://www.youtube.com/watch?v=r3uOBb3BM-0&list=PLh9ECzBB8tJN9bckI6FbWB03HkmogKrFT
-
 //This struct hold info of students.
 struct student
 { 
